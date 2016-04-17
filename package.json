@@ -1,0 +1,24 @@
+{
+  "name": "purescript_first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "pulp": "^8.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caspersg/purescript_first.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caspersg/purescript_first/issues"
+  },
+  "homepage": "https://github.com/caspersg/purescript_first#readme"
+}
